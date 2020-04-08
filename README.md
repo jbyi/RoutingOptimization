@@ -1,4 +1,4 @@
-# brightwalkinsight
+# Insight Data Science project, developed routing application for safer walk in Boston, MA USA
 - Created and deployed a Flask-based web application routing safe walking paths using Heroku
 - Wrangled Boston streetlight, crime, accident and OpenStreetMap sidewalk datasets using the GeoPandas
 package based on geographical adjacency, and assigned safety weights to the 25k sidewalk segments
